@@ -1,4 +1,4 @@
 # Workshop
 
-- [**Python**](python/)
-- [**Typst**](typst/)
+- [**Python**](workshops/python/)
+- [**Typst**](workshops/typst/)
