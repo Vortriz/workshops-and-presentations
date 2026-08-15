@@ -46,6 +46,7 @@
                         typstyle = {
                             command = "typstyle";
                             includes = [ "*.typ" ];
+                            excludes = [ "**/assets/*" ];
                             options = [
                                 "--inplace"
                                 "--indent-width"
